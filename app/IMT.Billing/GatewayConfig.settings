@@ -1,0 +1,21 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Dial8ed.BillingGateway" GeneratedClassName="Gateway">
+  <Profiles />
+  <Settings>
+    <Setting Name="GatewayServiceMode" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Dev</Value>
+    </Setting>
+    <Setting Name="DevApiLoginId" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">87dfdCVP5K</Value>
+    </Setting>
+    <Setting Name="DevTransactionId" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">6NBCfu86ez7755Tr</Value>
+    </Setting>
+    <Setting Name="LiveApiLoginId" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">6N6PbajK88</Value>
+    </Setting>
+    <Setting Name="LiveTransactionId" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">7jRNe53E25p325QJ</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

@@ -1,0 +1,9 @@
+F:\source\IMT.PaymentProcessor\app\IMT.PaymentProcessor\bin\Debug\IMT.BillingGateway.dll.config
+F:\source\IMT.PaymentProcessor\app\IMT.PaymentProcessor\bin\Debug\IMT.BillingGateway.dll
+F:\source\IMT.PaymentProcessor\app\IMT.PaymentProcessor\bin\Debug\IMT.BillingGateway.pdb
+F:\source\IMT.PaymentProcessor\app\IMT.PaymentProcessor\bin\Debug\AuthorizeNet.dll
+F:\source\IMT.PaymentProcessor\app\IMT.PaymentProcessor\bin\Debug\AuthorizeNet.pdb
+F:\source\IMT.PaymentProcessor\app\IMT.PaymentProcessor\bin\Debug\AuthorizeNet.xml
+F:\source\IMT.PaymentProcessor\app\IMT.PaymentProcessor\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\source\IMT.PaymentProcessor\app\IMT.PaymentProcessor\obj\x86\Debug\IMT.BillingGateway.dll
+F:\source\IMT.PaymentProcessor\app\IMT.PaymentProcessor\obj\x86\Debug\IMT.BillingGateway.pdb

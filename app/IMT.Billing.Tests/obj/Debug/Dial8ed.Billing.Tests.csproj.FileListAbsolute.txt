@@ -1,0 +1,11 @@
+R:\User\Source\_Repositories\IMT.Billing\app\IMT.Billing.Tests\bin\Debug\Dial8ed.Billing.Tests.dll
+R:\User\Source\_Repositories\IMT.Billing\app\IMT.Billing.Tests\bin\Debug\Dial8ed.Billing.Tests.pdb
+R:\User\Source\_Repositories\IMT.Billing\app\IMT.Billing.Tests\bin\Debug\AuthorizeNet.dll
+R:\User\Source\_Repositories\IMT.Billing\app\IMT.Billing.Tests\bin\Debug\Dial8ed.Billing.dll
+R:\User\Source\_Repositories\IMT.Billing\app\IMT.Billing.Tests\bin\Debug\nunit.framework.dll
+R:\User\Source\_Repositories\IMT.Billing\app\IMT.Billing.Tests\bin\Debug\AuthorizeNet.pdb
+R:\User\Source\_Repositories\IMT.Billing\app\IMT.Billing.Tests\bin\Debug\AuthorizeNet.xml
+R:\User\Source\_Repositories\IMT.Billing\app\IMT.Billing.Tests\bin\Debug\Dial8ed.Billing.pdb
+R:\User\Source\_Repositories\IMT.Billing\app\IMT.Billing.Tests\bin\Debug\nunit.framework.xml
+R:\User\Source\_Repositories\IMT.Billing\app\IMT.Billing.Tests\obj\Debug\Dial8ed.Billing.Tests.dll
+R:\User\Source\_Repositories\IMT.Billing\app\IMT.Billing.Tests\obj\Debug\Dial8ed.Billing.Tests.pdb

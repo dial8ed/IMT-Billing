@@ -1,0 +1,62 @@
+﻿<RecentFiles>
+  <RecentFiles>
+    <File id="9D21121C-07C2-454C-967A-394C5B5B2FF3/d:Services/f:CustomerResult.cs" caret="146" fromTop="6" />
+    <File id="9D21121C-07C2-454C-967A-394C5B5B2FF3/d:Services/f:NotCurrentlyNeeded.txt" caret="2903" fromTop="10" />
+    <File id="9D21121C-07C2-454C-967A-394C5B5B2FF3/d:Entities/f:TransactionInfo.cs" caret="191" fromTop="7" />
+    <File id="9D21121C-07C2-454C-967A-394C5B5B2FF3/f:App.config" caret="860" fromTop="17" />
+    <File id="9D21121C-07C2-454C-967A-394C5B5B2FF3/d:Gateway/f:GatewayConfigSettings.cs" caret="291" fromTop="11" />
+    <File id="9D21121C-07C2-454C-967A-394C5B5B2FF3/d:Entities/f:ContactInfo.cs" caret="0" fromTop="0" />
+    <File id="9D21121C-07C2-454C-967A-394C5B5B2FF3/d:Entities/f:BillingInfo.cs" caret="0" fromTop="0" />
+    <File id="9D21121C-07C2-454C-967A-394C5B5B2FF3/d:Entities/f:AddressInfo.cs" caret="0" fromTop="0" />
+    <File id="9D21121C-07C2-454C-967A-394C5B5B2FF3/d:Gateway/f:GatewayServiceFactory.cs" caret="0" fromTop="0" />
+    <File id="9D21121C-07C2-454C-967A-394C5B5B2FF3/d:Services/f:GatewayResult.cs" caret="519" fromTop="12" />
+    <File id="239AF0C0-7E83-4C49-BC62-4EE6E6CD358A/d:Helpers/f:EntityBuilder.cs" caret="3883" fromTop="40" />
+    <File id="9D21121C-07C2-454C-967A-394C5B5B2FF3/d:Entities/f:PaymentInfo.cs" caret="259" fromTop="10" />
+    <File id="9D21121C-07C2-454C-967A-394C5B5B2FF3/d:Entities/f:CustomerInfo.cs" caret="603" fromTop="20" />
+    <File id="9D21121C-07C2-454C-967A-394C5B5B2FF3/d:Entities/f:AuthorizationInfo.cs" caret="268" fromTop="7" />
+    <File id="9D21121C-07C2-454C-967A-394C5B5B2FF3/d:Services/f:Defaults.cs" caret="0" fromTop="0" />
+    <File id="9D21121C-07C2-454C-967A-394C5B5B2FF3/f:Extensions.cs" caret="0" fromTop="0" />
+    <File id="239AF0C0-7E83-4C49-BC62-4EE6E6CD358A/f:AuthorizationTests.cs" caret="637" fromTop="24" />
+    <File id="9D21121C-07C2-454C-967A-394C5B5B2FF3/d:Entities/f:CardInfo.cs" caret="800" fromTop="26" />
+    <File id="5D52EAEC-42FB-4313-83B8-69E2F55EBF14/d:ARB/f:SubscriptionRequest.cs" caret="863" fromTop="25" />
+    <File id="9D21121C-07C2-454C-967A-394C5B5B2FF3/d:Services/f:SubscriptionResult.cs" caret="220" fromTop="7" />
+    <File id="239AF0C0-7E83-4C49-BC62-4EE6E6CD358A/f:GatewayTests.cs" caret="648" fromTop="28" />
+    <File id="239AF0C0-7E83-4C49-BC62-4EE6E6CD358A/f:AuthorizeNetAPITests.cs" caret="616" fromTop="19" />
+    <File id="9D21121C-07C2-454C-967A-394C5B5B2FF3/d:Services/f:CustomerService.cs" caret="1338" fromTop="33" />
+    <File id="9D21121C-07C2-454C-967A-394C5B5B2FF3/d:Services/f:SubscriptionService.cs" caret="1812" fromTop="32" />
+    <File id="9D21121C-07C2-454C-967A-394C5B5B2FF3/d:Gateway/f:DefaultGatewayService.cs" caret="606" fromTop="18" />
+    <File id="9D21121C-07C2-454C-967A-394C5B5B2FF3/d:Services/f:PaymentService.cs" caret="1022" fromTop="27" />
+  </RecentFiles>
+  <RecentEdits>
+    <File id="239AF0C0-7E83-4C49-BC62-4EE6E6CD358A/f:AuthorizationTests.cs" caret="1999" fromTop="32" />
+    <File id="9D21121C-07C2-454C-967A-394C5B5B2FF3/d:Services/f:PaymentService.cs" caret="1362" fromTop="19" />
+    <File id="9D21121C-07C2-454C-967A-394C5B5B2FF3/d:Services/f:PaymentService.cs" caret="1340" fromTop="16" />
+    <File id="9D21121C-07C2-454C-967A-394C5B5B2FF3/d:Entities/f:AuthorizationInfo.cs" caret="268" fromTop="7" />
+    <File id="9D21121C-07C2-454C-967A-394C5B5B2FF3/d:Services/f:PaymentService.cs" caret="1049" fromTop="21" />
+    <File id="9D21121C-07C2-454C-967A-394C5B5B2FF3/d:Services/f:PaymentService.cs" caret="1212" fromTop="26" />
+    <File id="9D21121C-07C2-454C-967A-394C5B5B2FF3/d:Services/f:PaymentService.cs" caret="34" fromTop="1" />
+    <File id="239AF0C0-7E83-4C49-BC62-4EE6E6CD358A/d:Helpers/f:EntityBuilder.cs" caret="3862" fromTop="34" />
+    <File id="239AF0C0-7E83-4C49-BC62-4EE6E6CD358A/d:Helpers/f:EntityBuilder.cs" caret="3443" fromTop="7" />
+    <File id="239AF0C0-7E83-4C49-BC62-4EE6E6CD358A/f:AuthorizationTests.cs" caret="577" fromTop="19" />
+    <File id="239AF0C0-7E83-4C49-BC62-4EE6E6CD358A/f:AuthorizationTests.cs" caret="817" fromTop="26" />
+    <File id="239AF0C0-7E83-4C49-BC62-4EE6E6CD358A/f:AuthorizationTests.cs" caret="1073" fromTop="33" />
+    <File id="239AF0C0-7E83-4C49-BC62-4EE6E6CD358A/f:AuthorizationTests.cs" caret="1334" fromTop="19" />
+    <File id="239AF0C0-7E83-4C49-BC62-4EE6E6CD358A/f:AuthorizationTests.cs" caret="1504" fromTop="18" />
+    <File id="9D21121C-07C2-454C-967A-394C5B5B2FF3/d:Entities/f:CustomerInfo.cs" caret="254" fromTop="11" />
+    <File id="9D21121C-07C2-454C-967A-394C5B5B2FF3/d:Entities/f:CustomerInfo.cs" caret="596" fromTop="24" />
+    <File id="9D21121C-07C2-454C-967A-394C5B5B2FF3/d:Entities/f:PaymentInfo.cs" caret="152" fromTop="8" />
+    <File id="9D21121C-07C2-454C-967A-394C5B5B2FF3/d:Entities/f:CustomerInfo.cs" caret="179" fromTop="10" />
+    <File id="9D21121C-07C2-454C-967A-394C5B5B2FF3/d:Entities/f:CustomerInfo.cs" caret="88" fromTop="5" />
+    <File id="9D21121C-07C2-454C-967A-394C5B5B2FF3/d:Entities/f:PaymentInfo.cs" caret="70" fromTop="3" />
+    <File id="239AF0C0-7E83-4C49-BC62-4EE6E6CD358A/f:GatewayTests.cs" caret="575" fromTop="24" />
+    <File id="9D21121C-07C2-454C-967A-394C5B5B2FF3/d:Entities/f:CardInfo.cs" caret="293" fromTop="10" />
+    <File id="9D21121C-07C2-454C-967A-394C5B5B2FF3/d:Entities/f:CardInfo.cs" caret="877" fromTop="27" />
+    <File id="9D21121C-07C2-454C-967A-394C5B5B2FF3/d:Entities/f:CardInfo.cs" caret="891" fromTop="29" />
+    <File id="239AF0C0-7E83-4C49-BC62-4EE6E6CD358A/f:GatewayTests.cs" caret="468" fromTop="21" />
+    <File id="9D21121C-07C2-454C-967A-394C5B5B2FF3/d:Entities/f:CardInfo.cs" caret="512" fromTop="16" />
+    <File id="9D21121C-07C2-454C-967A-394C5B5B2FF3/d:Services/f:SubscriptionService.cs" caret="3070" fromTop="69" />
+    <File id="9D21121C-07C2-454C-967A-394C5B5B2FF3/d:Services/f:SubscriptionService.cs" caret="2253" fromTop="27" />
+    <File id="9D21121C-07C2-454C-967A-394C5B5B2FF3/d:Services/f:PaymentService.cs" caret="959" fromTop="15" />
+    <File id="9D21121C-07C2-454C-967A-394C5B5B2FF3/d:Services/f:PaymentService.cs" caret="1788" fromTop="21" />
+  </RecentEdits>
+</RecentFiles>

@@ -1,0 +1,9 @@
+R:\User\Source\_Repositories\IMT.Billing\app\IMT.Billing\bin\Release\Dial8ed.Billing.dll.config
+R:\User\Source\_Repositories\IMT.Billing\app\IMT.Billing\bin\Release\Dial8ed.Billing.dll
+R:\User\Source\_Repositories\IMT.Billing\app\IMT.Billing\bin\Release\Dial8ed.Billing.pdb
+R:\User\Source\_Repositories\IMT.Billing\app\IMT.Billing\bin\Release\AuthorizeNet.dll
+R:\User\Source\_Repositories\IMT.Billing\app\IMT.Billing\bin\Release\AuthorizeNet.pdb
+R:\User\Source\_Repositories\IMT.Billing\app\IMT.Billing\bin\Release\AuthorizeNet.xml
+R:\User\Source\_Repositories\IMT.Billing\app\IMT.Billing\obj\x86\Release\Dial8ed.Billing.csprojResolveAssemblyReference.cache
+R:\User\Source\_Repositories\IMT.Billing\app\IMT.Billing\obj\x86\Release\Dial8ed.Billing.dll
+R:\User\Source\_Repositories\IMT.Billing\app\IMT.Billing\obj\x86\Release\Dial8ed.Billing.pdb

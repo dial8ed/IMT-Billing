@@ -1,0 +1,10 @@
+F:\source\_Repositories\IMT.Billing\app\Authorize.NET\bin\Release\AuthorizeNet.dll
+F:\source\_Repositories\IMT.Billing\app\Authorize.NET\bin\Release\AuthorizeNet.pdb
+F:\source\_Repositories\IMT.Billing\app\Authorize.NET\obj\Release\ResolveAssemblyReference.cache
+F:\source\_Repositories\IMT.Billing\app\Authorize.NET\obj\Release\AuthorizeNet.dll
+F:\source\_Repositories\IMT.Billing\app\Authorize.NET\obj\Release\AuthorizeNet.pdb
+R:\User\Source\_Repositories\IMT.Billing\app\Authorize.NET\bin\Release\AuthorizeNet.XML
+R:\User\Source\_Repositories\IMT.Billing\app\Authorize.NET\bin\Release\AuthorizeNet.dll
+R:\User\Source\_Repositories\IMT.Billing\app\Authorize.NET\bin\Release\AuthorizeNet.pdb
+R:\User\Source\_Repositories\IMT.Billing\app\Authorize.NET\obj\Release\AuthorizeNet.dll
+R:\User\Source\_Repositories\IMT.Billing\app\Authorize.NET\obj\Release\AuthorizeNet.pdb

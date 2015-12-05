@@ -1,0 +1,5 @@
+<Modules>
+  <Module PersistentId="9D21121C-07C2-454C-967A-394C5B5B2FF3" ModuleId="IMT.BillingGateway" />
+  <Module PersistentId="239AF0C0-7E83-4C49-BC62-4EE6E6CD358A" ModuleId="IMT.BillingGateway.Tests" />
+  <Module PersistentId="5D52EAEC-42FB-4313-83B8-69E2F55EBF14" ModuleId="AuthorizeNET" />
+</Modules>

@@ -1,0 +1,9 @@
+F:\source\_Repositories\IMT.Billing\app\IMT.Billing\bin\Release\IMT.Billing.dll.config
+F:\source\_Repositories\IMT.Billing\app\IMT.Billing\bin\Release\IMT.Billing.dll
+F:\source\_Repositories\IMT.Billing\app\IMT.Billing\bin\Release\IMT.Billing.pdb
+F:\source\_Repositories\IMT.Billing\app\IMT.Billing\bin\Release\AuthorizeNet.dll
+F:\source\_Repositories\IMT.Billing\app\IMT.Billing\bin\Release\AuthorizeNet.pdb
+F:\source\_Repositories\IMT.Billing\app\IMT.Billing\bin\Release\AuthorizeNet.xml
+F:\source\_Repositories\IMT.Billing\app\IMT.Billing\obj\x86\Release\ResolveAssemblyReference.cache
+F:\source\_Repositories\IMT.Billing\app\IMT.Billing\obj\x86\Release\IMT.Billing.dll
+F:\source\_Repositories\IMT.Billing\app\IMT.Billing\obj\x86\Release\IMT.Billing.pdb

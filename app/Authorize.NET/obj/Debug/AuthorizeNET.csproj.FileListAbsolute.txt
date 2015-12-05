@@ -1,0 +1,26 @@
+C:\accurev\Auth_NPP_AnetSDK_Lane\Source\samplecode\SDK\C#\Authorize.NET\bin\Debug\AuthorizeNet.XML
+C:\accurev\Auth_NPP_AnetSDK_Lane\Source\samplecode\SDK\C#\Authorize.NET\bin\Debug\AuthorizeNet.dll
+C:\accurev\Auth_NPP_AnetSDK_Lane\Source\samplecode\SDK\C#\Authorize.NET\bin\Debug\AuthorizeNet.pdb
+C:\accurev\Auth_NPP_AnetSDK_Lane\Source\samplecode\SDK\C#\Authorize.NET\obj\Debug\ResolveAssemblyReference.cache
+C:\accurev\Auth_NPP_AnetSDK_Lane\Source\samplecode\SDK\C#\Authorize.NET\obj\Debug\AuthorizeNet.dll
+C:\accurev\Auth_NPP_AnetSDK_Lane\Source\samplecode\SDK\C#\Authorize.NET\obj\Debug\AuthorizeNet.pdb
+C:\Source\Tools\Authorize.NET AIM\Authorize.NET\bin\Debug\AuthorizeNet.dll
+C:\Source\Tools\Authorize.NET AIM\Authorize.NET\bin\Debug\AuthorizeNet.pdb
+C:\Source\Tools\Authorize.NET AIM\Authorize.NET\obj\Debug\ResolveAssemblyReference.cache
+C:\Source\Tools\Authorize.NET AIM\Authorize.NET\obj\Debug\AuthorizeNet.dll
+C:\Source\Tools\Authorize.NET AIM\Authorize.NET\obj\Debug\AuthorizeNet.pdb
+F:\source\Tools\Authorize.NET AIM\Authorize.NET\bin\Debug\AuthorizeNet.dll
+F:\source\Tools\Authorize.NET AIM\Authorize.NET\bin\Debug\AuthorizeNet.pdb
+F:\source\Tools\Authorize.NET AIM\Authorize.NET\obj\Debug\ResolveAssemblyReference.cache
+F:\source\Tools\Authorize.NET AIM\Authorize.NET\obj\Debug\AuthorizeNet.dll
+F:\source\Tools\Authorize.NET AIM\Authorize.NET\obj\Debug\AuthorizeNet.pdb
+F:\source\_Repositories\IMT.Billing\app\Authorize.NET\bin\Debug\AuthorizeNet.dll
+F:\source\_Repositories\IMT.Billing\app\Authorize.NET\bin\Debug\AuthorizeNet.pdb
+F:\source\_Repositories\IMT.Billing\app\Authorize.NET\obj\Debug\ResolveAssemblyReference.cache
+F:\source\_Repositories\IMT.Billing\app\Authorize.NET\obj\Debug\AuthorizeNet.dll
+F:\source\_Repositories\IMT.Billing\app\Authorize.NET\obj\Debug\AuthorizeNet.pdb
+R:\User\Source\_Repositories\IMT.Billing\app\Authorize.NET\bin\Debug\AuthorizeNet.XML
+R:\User\Source\_Repositories\IMT.Billing\app\Authorize.NET\bin\Debug\AuthorizeNet.dll
+R:\User\Source\_Repositories\IMT.Billing\app\Authorize.NET\bin\Debug\AuthorizeNet.pdb
+R:\User\Source\_Repositories\IMT.Billing\app\Authorize.NET\obj\Debug\AuthorizeNet.dll
+R:\User\Source\_Repositories\IMT.Billing\app\Authorize.NET\obj\Debug\AuthorizeNet.pdb
